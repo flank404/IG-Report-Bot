@@ -12,8 +12,6 @@ from libs.utils import print_success
 from libs.utils import print_error
 from libs.utils import ask_question
 from libs.utils import print_status
-from libs.utils import parse_proxy_file
-from libs.proxy_harvester import find_proxies
 from libs.attack import report_profile_attack
 from libs.attack import report_video_attack
 from multiprocessing import Process
